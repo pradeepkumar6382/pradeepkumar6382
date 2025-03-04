@@ -35,9 +35,9 @@ Passionate about building scalable web applications and crafting engaging digita
 ---
 
 ### 📫 Let's Connect!
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if available)*
+- **GitHub:** [github.com/pradeepkumar6382](https://github.com/pradeepkumar6382)
+- **LinkedIn:** [linkedin.com/in/Pradeep](https://www.linkedin.com/in/pradeep-kumar-77303a278/))
+- **Portfolio:** [https://buildwithpradeepkumar.vercel.app/]
 
 ---
 
