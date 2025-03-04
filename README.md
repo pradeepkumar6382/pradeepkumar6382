@@ -20,9 +20,9 @@ Passionate about building scalable web applications and crafting engaging digita
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?pradeepkumar6382=pradeepkumar6382&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepkumar6382&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumar6382&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?pradeepkumar6382=pradeepkumar6382&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumar6382&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
