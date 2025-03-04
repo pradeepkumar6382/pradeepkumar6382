@@ -2,7 +2,7 @@
 
 ### 🚀 MERN Stack Developer | Video Editor | Tech Enthusiast
 
-Passionate about building scalable web applications and crafting engaging digital experiences. I specialize in the **MERN stack** and love working on **React.js** projects. Beyond coding, I enjoy **video editing** and analyzing **logical flaws in Tamil movies**! 🎬
+Passionate about building scalable web applications and crafting engaging digital experiences. I specialize in the **MERN stack** and love working on **React.js** projects. Beyond coding, I enjoy **video editing**🎬
 
 ---
 
@@ -14,10 +14,6 @@ Passionate about building scalable web applications and crafting engaging digita
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🎬 Video Editing
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ---
 
